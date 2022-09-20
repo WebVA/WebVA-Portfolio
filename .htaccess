@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteRule ^(\/|)$ home.php [QSA]
+RewriteRule ^contact(\/|)$ contact.php [QSA]
+RewriteRule ^history(\/|)$ history.php [QSA]
+RewriteRule ^portfolio(\/|)$ portfolio.php [QSA]
+ErrorDocument 404 /404

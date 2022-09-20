@@ -1,0 +1,111 @@
+
+.dan-link.dan-color-link {
+  color: #64B5F6
+}
+
+.dan-link.dan-color-link:hover {
+  color: #64B5F6;
+}
+.dan-btn {
+  background: #64B5F6;
+}
+
+blockquote {
+  background: #64B5F6;
+}
+
+.dan-custom-list li:before {
+  border: solid 2px #64B5F6;
+}
+
+.dan-info-bar .dan-header .dan-avatar .dan-lamp-light .dan-available-lamp {
+  background: #64B5F6;
+}
+
+.dan-info-bar .dan-name:hover a {
+  color: #64B5F6
+}
+
+.dan-info-bar .dan-knowledge-list li:before {
+  color: #64B5F6;
+}
+
+.dan-menu-bar .dan-language-change li.dan-active-lang {
+  background-color: #64B5F6;
+}
+
+.dan-code i {
+  color: #64B5F6
+}
+
+.dan-counter-frame .dan-counter-box .dan-counter {
+  color: #64B5F6;
+}
+
+.dan-counter-frame .dan-counter-box .dan-counter-plus {
+  color: #64B5F6;
+}
+
+.dan-price.dan-popular-price:before {
+  background: #64B5F6
+}
+
+.dan-price .dan-price-body .dan-price-cost .dan-number {
+  color: #64B5F6;
+}
+
+.dan-price .dan-price-body .dan-price-list li:before {
+  color: #64B5F6
+}
+
+.dan-price .dan-price-body .dan-price-list li.dan-empty-item:before {
+  color: #64B5F6
+}
+
+.dan-testimonial .dan-testimonial-footer .dan-star-rate {
+  color: #64B5F6
+}
+
+.dan-slider-navigation .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #64B5F6;
+}
+
+.fancybox-progress {
+  background: #64B5F6;
+}
+
+.fancybox-thumbs__list a:before {
+  border-color: #64B5F6;
+}
+
+.dan-timeline .dan-timeline-item .dan-timeline-mark {
+  border: solid 3px #64B5F6;
+}
+
+.dan-form-field textarea.dan-active {
+  border-color: #64B5F6;
+}
+
+.dan-form-field textarea:focus {
+  border-color: #64B5F6
+}
+
+.dan-contact-form .dan-input.dan-active+label, .dan-contact-form .dan-input:focus+label {
+  background: #64B5F6;
+}
+
+.dan-pagination .dan-pagination-center a.dan-active-pag {
+  color: #64B5F6l
+}
+
+.dan-preloader-load path:last-child {
+  stroke: #64B5F6;
+}
+
+.dan-line-progress path:last-child {
+  stroke: #64B5F6;
+}
+
+.dan-cirkle-progress path:last-child {
+  stroke: #64B5F6;
+}
