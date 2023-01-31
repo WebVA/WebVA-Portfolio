@@ -316,7 +316,7 @@
                         <h5 class="mb-30">Hourly payment</h5>
                         <!-- price cost -->
                         <div class="dan-price-cost">
-                          <div class="dan-number"><span>$</span>60<span>h</span></div>
+                          <div class="dan-number"><span>$</span>50<span>h</span></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
@@ -353,7 +353,7 @@
                         <h5 class="mb-30"> Full time</h5>
                         <!-- price cost -->
                         <div class="dan-price-cost">
-                          <div class="dan-number"><span>$</span>10000<span>m</span></div>
+                          <div class="dan-number"><span>$</span>8000<span>m</span></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
