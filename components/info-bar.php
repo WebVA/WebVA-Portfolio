@@ -33,7 +33,7 @@
     <!-- name -->
     <h5 class="dan-name mb-10"><a href="/home.html">Adrian Wang</a></h5>
     <!-- post -->
-    <div class="dan-lg-text">Senior Full-Stack Web/Blockchain Engineer <br> </div>
+    <div class="dan-lg-text">WebVA Agency CTO </br> Senior Full-Stack Web & Blockchain Engineer <br> </div>
   </div>
   <!-- info bar header end -->
 
