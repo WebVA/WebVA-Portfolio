@@ -46,11 +46,11 @@
       <ul>
         <!-- country -->
         <li>
-          <h6>Residence:</h6><span>England</span>
+          <h6>Residence:</h6><span>China</span>
         </li>
         <!-- city -->
         <li>
-          <h6>City:</h6><span>Leicester</span>
+          <h6>City:</h6><span>Shen Yang</span>
         </li>
         <!-- age -->
         <li>
@@ -75,11 +75,10 @@
       <!-- skill end -->
 
       <!-- skill -->
-      <div class="dan-lang-skills-item">
+      <!-- <div class="dan-lang-skills-item">
         <div id="circleprog2" class="dan-cirkle-progress"></div>
-        <!-- title -->
         <h6>Japanese</h6>
-      </div>
+      </div> -->
       <!-- skill end -->
 
       <!-- skill -->

@@ -89,15 +89,15 @@
                       <div class="dan-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Country:</h6><span>United Kingdom</span>
+                            <h6>Country:</h6><span>China</span>
                           </li>
                           <li>
-                            <h6>City:</h6><span>Leicester</span>
+                            <h6>City:</h6><span>Shen Yang</span>
                           </li>
 
-                          <li>
+                          <!-- <li>
                             <h6>Street:</h6><span>Leicester</span>
-                          </li>
+                          </li> -->
                         </ul>
                       </div>
                     </div>
@@ -111,7 +111,7 @@
                       <div class="dan-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Email:</h6><span>devrabbit523@gmail.com</span>
+                            <h6>Email:</h6><span>adrianwang224@gmail.com</span>
                           </li>
                           <li>
                             <h6>Phone:</h6><span>+44 2032860022</span>
@@ -120,10 +120,10 @@
                             <h6>Linkedin:</h6><span>adrian-wang-301238226</span>
                           </li>
                           <li>
-                            <h6>GitHub:</h6><span>YJ224</span>
+                            <h6>GitHub:</h6><span>webva</span>
                           </li>
                           <li>
-                            <h6>Skype:</h6><span>live:.cid.faaa9dc3af9b8c75</span>
+                            <h6>Skype:</h6><span>live:.cid.7c02009c0e52a34d</span>
                           </li>
                         </ul>
                       </div>
