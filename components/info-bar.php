@@ -75,10 +75,10 @@
       <!-- skill end -->
 
       <!-- skill -->
-      <!-- <div class="dan-lang-skills-item">
-        <div id="circleprog2" class="dan-cirkle-progress"></div>
-        <h6>Japanese</h6>
-      </div> -->
+      <div class="dan-lang-skills-item">
+        <!-- <div id="circleprog2" class="dan-cirkle-progress"></div> -->
+        <!-- <h6>Japanese</h6> -->
+      </div>
       <!-- skill end -->
 
       <!-- skill -->
