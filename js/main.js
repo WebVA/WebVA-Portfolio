@@ -1,8 +1,8 @@
 /* -------------------------------------------
 
-Name: 		Danylo
+Name: 		Wang
 Version:  1.0
-Author:		Danylo Bastiuchenko
+Author:		Adrian Wang
 
 ------------------------------------------- */
 $(function() {
